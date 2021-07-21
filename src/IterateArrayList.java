@@ -1,3 +1,5 @@
+/*Here there are three ways to iterate through an ArrayList*/
+
 import java.util.ArrayList;
 import java.util.Iterator;
 public class IterateArrayList {

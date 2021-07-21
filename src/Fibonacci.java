@@ -1,3 +1,6 @@
+/*Fibonacci sequence is created this way: the numbers next ti each other are added up and the result becomes the next 
+number is the sequence.*/
+
 import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[]args){
